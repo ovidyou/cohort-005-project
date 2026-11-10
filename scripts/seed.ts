@@ -2725,7 +2725,7 @@ This course is still in draft while the cluster examples are rewritten against t
 
   // ─── Liam's Purchase ───
   // One learner part-way through a recent purchase, with no request raised, so
-  // the course page offers "Cancel my purchase". The dates count back from
+  // the course page offers "Request a refund". The dates count back from
   // today, so the fourteen-day refund window is still open whenever you seed.
 
   const liam = studentByEmail("liam@example.com");
